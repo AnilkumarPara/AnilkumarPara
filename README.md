@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnilkumarPara
-- 👀 I’m interested in Python
+- 👀 I’m interested in Data Science, Python, Testing
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Python, Data Science and ML
+- 💞️ I’m looking to collaborate on Python, Data Science, ML and Testing
 - 📫 How to reach me on anilkumar.para@gmail.com or 9986644560
 
 <!---
